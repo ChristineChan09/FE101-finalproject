@@ -1,0 +1,63 @@
+body{
+	background-image: url(../images/end.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#over{
+	color: #82500F;
+	text-align: center;
+	font-size: 180px;
+	font-family: Creepster, cursive;
+	margin-top: 70px;
+	text-align: center;
+}
+
+.btn-wrapper{
+	text-align: center;
+}
+
+#three{
+	font-family: Creepster, cursive;
+	font-size: 40px;
+	border-radius: 15px;
+	padding: 5px;
+	margin: 18px;
+}
+
+#quit{
+	font-family: Creepster, cursive;
+	font-size: 40px;
+	border-radius: 15px;
+	padding: 5px;
+	margin: 18px;
+}
+
+#social{
+	background-color: #82500F;
+	float: right;
+	display: none;
+}
+
+.one, .two, .three, .four, .five{
+	padding: 6px;
+	display: inline;
+	clear: both;
+}
+
+a{
+	/*color: #D68317;*/
+	text-decoration: none;
+}
+
+a, a:visited, a:hover, a:active {
+  color: #D68317;
+}
+
+.more{
+	color: #D68317;
+	font-family: 'Lato', sans-serif;
+	font-size: 32px;
+	text-align: center;
+	background-color: #82500F;
+}

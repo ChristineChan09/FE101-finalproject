@@ -1,0 +1,73 @@
+body{
+	background-image: url("../images/background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#gametitle{
+	font-family: Creepster, cursive;
+	font-size: 160px;
+	text-align: center;
+	margin: 80px;
+	color: #82500F;
+}
+
+div #one{
+	font-family: Creepster, cursive;
+	font-size: 30px;
+	margin-top: 30px;
+}
+
+#form-wrapper{ 
+	width: 400px; 
+	margin: 0 auto; 
+}
+
+.box{
+	text-align: center;
+	background-color: #824300;
+	border-radius: 18px;
+	font-family: Creepster, cursive;
+	font-size: 32px;
+	margin-top: 30px;
+	opacity: 0.9;
+}
+
+#one{
+	border-radius: 12px;
+}
+
+a{
+	text-decoration: none;
+}
+
+a, a:visited, a:hover, a:active {
+  color: #000;
+}
+
+#media{
+	color: #D68317;
+	font-family: 'Lato', sans-serif;
+	font-size: 32px;
+	text-align: center;
+	background-color: #82500F;
+}
+
+/*Pages*/
+
+#page{
+	background-color: #824300;
+	height: 450px;
+	margin-top: 50px;
+	opacity: 0.85;
+	padding: 50px;
+	border-radius: 18px;
+	font-family: 'Cardo', serif;
+	font-size: 21px;
+	font-weight: bold;
+}
+
+#arrows{
+	text-align: center;
+	display: none;
+}

@@ -1,0 +1,17 @@
+#slider{
+	position: relative;
+	width: 1000px;
+	height: 800px;
+	/*background-size: cover;*/
+}
+
+#slider img{
+	width: 1000px;
+	height: 800px;
+	/*background-size: cover;*/
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+}
+

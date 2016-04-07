@@ -1,0 +1,48 @@
+body{
+	background-image: url(..//images/gamebckground.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#rules{
+	background-color: #5974A3;
+	height: 450px;
+	margin-top: 50px;
+	opacity: 0.85;
+	padding: 50px;
+	border-radius: 18px;
+	font-family: 'Cardo', serif;
+	font-size: 21px;
+	font-weight: bold;
+}
+
+.button-wrapper{
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+}
+
+a, a:visited, a:hover, a:active {
+  color: #000;
+}
+
+#play-button{
+	border-radius: 15px;
+	color: #82500F;
+	font-size: 30px;
+	padding: 5px;
+	margin: 18px;
+	top: 50%;
+}
+
+#skip-button{
+	border-radius: 15px;
+	color: #82500F;
+	font-size: 30px;
+	padding: 5px;
+	margin: 18px;
+	top: 50%;
+}
+
